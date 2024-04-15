@@ -1,1 +1,1 @@
-# All Problem Sets and Final Project for CS50P (Introduction to Programming with Python, Harvardx)
+# All Problem Sets and Final Project for CS50P ("Introduction to Programming with Python" by Harvardx & edX)
